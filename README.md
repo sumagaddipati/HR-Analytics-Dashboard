@@ -16,6 +16,30 @@ The goal of this project is to:
 - Build a professional, interactive dashboard using Power BI
 
 ---
+## 📸 Dashboard Pages Preview
+
+### 🔹 Page 1: Overview
+![Attrition Page]![Screenshot 2025-06-17 114717](https://github.com/user-attachments/assets/fcd6ce35-cf3f-4cf1-a2e4-281d345e5933)
+
+
+---
+
+### 🔹 Page 2: Attrition Analysis
+![Employee Analysis 1 Page]![Screenshot 2025-06-17 114727](https://github.com/user-attachments/assets/135dd467-3c38-4cdc-97b6-cbe784af06c6)
+
+
+---
+
+### 🔹 Page 3: Salary Distribution
+![Employee Analysis 2 Page]![Screenshot 2025-06-17 114753](https://github.com/user-attachments/assets/11066ccc-eb6f-4129-8a25-4cc13368d919)
+
+
+---
+
+### 🔹 Page 4: Job Role & Attrition
+![Satisfaction Page]![Screenshot 2025-06-17 114806](https://github.com/user-attachments/assets/4962f146-9a4f-4574-84e4-8d180bcffa7d)
+
+
 
 ## 🛠️ Tools & Technologies Used
 
